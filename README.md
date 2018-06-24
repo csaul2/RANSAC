@@ -1,8 +1,6 @@
 # RANSAC
 
-Finding best fit lines for noisey data. 
-
-This was a homework project for a computer vision class. 
+In this project I implemented random sample consensus (RANSAC) to find inliers of a dataset and to then perform a linear regression of the inliers. The results are then plotted in the figures below.
 
 ## Datasets and Results
 
